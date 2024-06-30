@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "data": {
+        "title": ["website", "redesign"],
+        "subtitle": "Programa de Pós-Graduação em Ciências Humanas"
+      },
+      "links": {
+        "behance": "https://www.behance.net/gallery/197969913/Redesign-do-Website-do-PPGI-CH-da-UEA",
+        "figma": "https://www.figma.com/design/VfT9sSBAYuYOlp10nNAbNc/Web-Redesign%3A-PPGI.CH?node-id=1-3&t=tUKB104hZ8E0UwQp-1"
+      },
+      "files": {
+        "imgURL": "https://raw.githubusercontent.com/biamaxine/json-server/master/assets/projects/project_01/web_redesign-ppgich.jpg",
+        "pdfURL": "https://drive.google.com/file/d/1e5p5IicgIqxf4bAvkXKBuTHicKFts6Vz/view"
+      }
+    }
+  ]
+}
