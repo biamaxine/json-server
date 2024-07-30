@@ -14,6 +14,11 @@
           "link": "https://www.behance.net/gallery/197969913/Redesign-do-Website-do-PPGI-CH-da-UEA"
         }
       ],
+      "medias": [
+        {
+          "ico": "figma"
+        }
+      ]
       "files": {
         "pdf": "https://drive.google.com/file/d/1e5p5IicgIqxf4bAvkXKBuTHicKFts6Vz/view",
         "img": "https://raw.githubusercontent.com/biamaxine/json-server/master/assets/projects/project_01/web_redesign-ppgich.jpg"
