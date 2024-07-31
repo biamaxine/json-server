@@ -4,7 +4,7 @@
       "id": "1",
       "title": "Website Redesign",
       "subtitle": "Programa de Pós-Graduação Interdisciplinar em Ciências Humanas da UEA",
-      "tech": [
+      "medias": [
         {
           "ico": "figma",
           "link": "https://www.figma.com/design/VfT9sSBAYuYOlp10nNAbNc/Web-Redesign%3A-PPGI.CH?node-id=1-3&t=tUKB104hZ8E0UwQp-1"
@@ -14,7 +14,7 @@
           "link": "https://www.behance.net/gallery/197969913/Redesign-do-Website-do-PPGI-CH-da-UEA"
         }
       ],
-      "medias": [
+      "tech": [
         {
           "ico": "figma"
         }
