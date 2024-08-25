@@ -32,6 +32,40 @@
           "Este projeto foi desenvolvido com Figma e compreende Wireframe, Design System e Protótipo, além do banner de apresentação apresentado a seguir."
         ]
       }
+    },
+    {
+      "id": "2",
+      "title": "CookieTop",
+      "subtitle": "Cozinhe, Crie, Compartilhe!",
+      "medias": [
+        {
+          "ico": "figma",
+          "link": "https://www.figma.com/design/O2IFfa8EqaPZPT9jxKvGvf/TheCookieTop?node-id=7-63&t=YnnnWUYkH1Krln4L-1"
+        },
+        {
+          "ico": "behance",
+          "link": "https://www.behance.net/gallery/206359137/CookieTop-Uma-rede-social-para-cozinheiros?"
+        }
+      ],
+      "tech": [
+        {
+          "ico": "figma"
+        }
+      ],
+      "files": {
+        "pdf": "https://drive.google.com/file/d/1d8kQQ8JmVKkFNWcYLuJ_Ck1H6jtLeSA_/view",
+        "img": "https://raw.githubusercontent.com/biamaxine/json-server/master/assets/projects/project_02/CookieTop_Banner.jpg"
+      },
+      "resume": {
+        "article_left": [
+          "CookieTop é uma rede social para cozinheiros que oferece vídeos curtos acompanhados de receitas completas.",
+          
+          "Os usuários podem assistir, curtir, comentar, compartilhar e salvar receitas, além de modificá-las e incrementá-las. A plataforma também permite que se sigam e sejam seguidos por outros cozinheiros."
+        ],
+        "article_right": [
+          "O objetivo é criar uma comunidade culinária onde os usuários possam compartilhar suas criações e ganhar status de \"Chefe 5 Estrelas\" baseado na popularidade das receitas."
+        ]
+      }
     }
   ]
 }
